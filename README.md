@@ -1,151 +1,149 @@
 # Representantes do Duelo de MCs Nacional 2025
 
 
-# Minas Gerais (MG):
-
-- ...
-
-
-# Rio de Janeiro (RJ):
-
-- ...
-
-
-# Pernambuco (PE):
-
-- ...
-
-
-# Goiás (GO):
-
-- ...
-
-
 # Paraíba (PB):
 
-- ...
+- Rank
 
 
 # Tocantins (TO):
 
-- ...
-
-
-# Amazonas (AM):
-
-- ...
-
-
-# Roraima (RR):
-
-- ...
-
-
-# Pará (PA):
-
-- ...
-
-
-# Rio Grande do Norte (RN):
-
-- ...
-
-
-# Piauí (PI):
-
-- ...
-
-
-# Maranhão (MA):
-
-- ...
+- Frajola
 
 
 # Ceará (CE):
 
-- ..
+- Snart
 
 
-# Paraná (PR):
+# Roraima (RR):
 
-- ...
-
-
-# Mato Grosso (MT): 
-
-- ...
+- Neto
 
 
-# Mato Grosso do Sul (MS):
+# Mato Grosso do Sul (MS) - 11/10
 
 - ...
 
 
-# Alagoas (AL):
+# Santa Catarina (SC) - 11/10
 
 - ...
 
 
-# Amapá (AP):
+# Rio de Janeiro (RJ) - 18/10 (A confirmar)
 
 - ...
 
 
-# São Paulo (SP):
+# Rondônia (RO) - 18/10
 
 - ...
 
 
-# Santa Catarina (SC):
+# Sergipe (SE) - 18/10
 
 - ...
 
 
-# Espírito Santo (ES):
+# Alagoas (AL) - 18/10
 
 - ...
 
 
-# Bahia (BA):
+# Minas Gerais (MG) - 19/10
 
 - ...
 
 
-# Rondônia (RO):
+# Amazonas (AM) - 25/10
 
 - ...
 
 
-# Sergipe (SE):
+# Goiás (GO) - 25/10
 
 - ...
 
 
-# Acre (AC):
+# Maranhão (MA) - 25/10
 
 - ...
 
 
-# Distrito Federal (DF):
+# Bahia (BA) - 25/10
 
 - ...
 
 
-# Rio Grande do Sul (RS):
+# Mato Grosso (MT) - 25/10
+
+- ...
+
+
+# Distrito Federal (DF) - 26/10
+
+- ...
+
+
+# Paraná (PR) - 26/10
+
+- ...
+
+
+# Piauí (PI) - 26/10 (A confirmar)
+
+- ...
+
+
+# Acre (AC): - 01/11
+
+- ...
+
+
+# Amapá (AP) - 01/11
+
+- ...
+
+
+# Espírito Santo (ES) - 01/11
+
+- ...
+
+
+# Pernambuco (PE) - 01/11 (A confirmar)
+
+- ...
+
+
+# Rio Grande do Norte (RN) - 02/11
+
+- ...
+
+
+# São Paulo (SP) - 01/11
+
+- ...
+
+
+# Rio Grande do Sul (RS) - 02/11
+
+- ...
+
+
+# Pará (PA) - 08/11
 
 - ...
 
 
 # Repescagem:
 
-- ...
+- ... (??)
 
-- ...
+- ... (??)
 
-- ...
+- ... (??)
 
-- ...
+- ... (??)
 
-- ...
-
-
+- ... (??)
