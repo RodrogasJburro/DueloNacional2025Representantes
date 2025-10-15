@@ -31,11 +31,6 @@
 - Miliano
 
 
-# Rio de Janeiro (RJ) - 18/10 (A confirmar)
-
-- ...
-
-
 # Rondônia (RO) - 18/10
 
 - ...
@@ -77,6 +72,11 @@
 
 
 # Mato Grosso (MT) - 25/10
+
+- ...
+
+
+# Rio de Janeiro (RJ) - 26/10
 
 - ...
 
