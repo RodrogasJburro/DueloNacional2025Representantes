@@ -21,14 +21,14 @@
 - Neto
 
 
-# Mato Grosso do Sul (MS) - 11/10
-
-- ...
-
-
 # Santa Catarina (SC) - 11/10
 
-- ...
+- J Black
+
+
+# Mato Grosso do Sul (MS) - 11/10
+
+- Miliano
 
 
 # Rio de Janeiro (RJ) - 18/10 (A confirmar)
