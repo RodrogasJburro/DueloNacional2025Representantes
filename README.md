@@ -1,47 +1,47 @@
 # Representantes do Duelo de MCs Nacional 2025
 
 
-# Paraíba (PB):
+# Paraíba (PB)
 
 - Rank
 
 
-# Tocantins (TO):
+# Tocantins (TO)
 
 - Frajola
 
 
-# Ceará (CE):
+# Ceará (CE)
 
 - Snart
 
 
-# Roraima (RR):
+# Roraima (RR)
 
 - Neto
 
 
-# Santa Catarina (SC) - 11/10
+# Santa Catarina (SC)
 
 - J Black
 
 
-# Mato Grosso do Sul (MS) - 11/10
+# Mato Grosso do Sul (MS)
 
 - Miliano
 
 
-# Sergipe (SE) - 18/10
+# Sergipe (SE)
 
 - JB Thovem
 
 
-# Alagoas (AL) - 18/10
+# Alagoas (AL)
 
 - Onze
 
 
-# Minas Gerais (MG) - 19/10
+# Minas Gerais (MG)
 
 - Lorran
 
