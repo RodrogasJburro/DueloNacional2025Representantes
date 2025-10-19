@@ -31,24 +31,19 @@
 - Miliano
 
 
-# Rondônia (RO) - 18/10
-
-- ...
-
-
 # Sergipe (SE) - 18/10
 
-- ...
+- JB Thovem
 
 
 # Alagoas (AL) - 18/10
 
-- ...
+- Onze
 
 
 # Minas Gerais (MG) - 19/10
 
-- ...
+- Lorran
 
 
 # Amazonas (AM) - 25/10
@@ -95,6 +90,10 @@
 
 - ...
 
+
+# Rondônia (RO) - 01/11
+
+- ...
 
 # Acre (AC): - 01/11
 
