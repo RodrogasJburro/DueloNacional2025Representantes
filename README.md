@@ -33,7 +33,7 @@
 
 # Sergipe (SE)
 
-- JB Thovem
+- JB Thoven
 
 
 # Alagoas (AL)
@@ -46,49 +46,49 @@
 - Lorran
 
 
-# Amazonas (AM) - 25/10
+# Amazonas (AM)
+
+- Hope
+
+
+# Goiás (GO)
+
+- Geovane
+
+
+# Maranhão (MA) - (Adiado)
 
 - ...
 
 
-# Goiás (GO) - 25/10
+# Bahia (BA)
 
-- ...
-
-
-# Maranhão (MA) - 25/10
-
-- ...
+- Japa
 
 
-# Bahia (BA) - 25/10
+# Mato Grosso (MT)
 
-- ...
-
-
-# Mato Grosso (MT) - 25/10
-
-- ...
+- Pedog
 
 
-# Rio de Janeiro (RJ) - 26/10
+# Rio de Janeiro (RJ)
 
-- ...
-
-
-# Distrito Federal (DF) - 26/10
-
-- ...
+- João Vega
 
 
-# Paraná (PR) - 26/10
+# Distrito Federal (DF)
 
-- ...
+- Pedog
 
 
-# Piauí (PI) - 26/10 (A confirmar)
+# Paraná (PR)
 
-- ...
+- Ryan
+
+
+# Piauí (PI)
+
+- Felinho
 
 
 # Rondônia (RO) - 01/11
