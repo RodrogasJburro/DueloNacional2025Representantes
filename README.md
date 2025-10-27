@@ -110,7 +110,7 @@
 - ...
 
 
-# Pernambuco (PE) - 01/11 (A confirmar)
+# Pernambuco (PE) - 02/11
 
 - ...
 
