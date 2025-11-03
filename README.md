@@ -1,5 +1,5 @@
 # Representantes do Duelo de MCs Nacional 2025
-
+(26/32)
 
 # Paraíba (PB)
 
@@ -56,11 +56,6 @@
 - Geovane
 
 
-# Maranhão (MA) - (Adiado)
-
-- ...
-
-
 # Bahia (BA)
 
 - Japa
@@ -91,43 +86,48 @@
 - Felinho
 
 
-# Rondônia (RO) - 01/11
+# Rondônia (RO)
 
-- ...
+- HC
 
-# Acre (AC): - 01/11
+# Acre (AC)
 
-- ...
-
-
-# Amapá (AP) - 01/11
-
-- ...
+- 21
 
 
-# Espírito Santo (ES) - 01/11
+# Amapá (AP)
 
-- ...
-
-
-# Pernambuco (PE) - 02/11
-
-- ...
+- Ivo
 
 
-# Rio Grande do Norte (RN) - 02/11
+# Espírito Santo (ES)
 
-- ...
-
-
-# São Paulo (SP) - 01/11
-
-- ...
+- Robbzin
 
 
-# Rio Grande do Sul (RS) - 02/11
+# Maranhão (MA)
 
-- ...
+- Épico
+
+
+# Pernambuco (PE)
+
+- Vitu
+
+
+# Rio Grande do Norte (RN)
+
+- Frizzy
+
+
+# São Paulo (SP)
+
+- Barreto
+
+
+# Rio Grande do Sul (RS)
+
+- LD
 
 
 # Pará (PA) - 08/11
